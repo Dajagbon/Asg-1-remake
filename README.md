@@ -1,7 +1,7 @@
 # Asg-1-remake
 **a)What is the purpose of this program(s)?** The denominations program's purpose is to determine the amount of change needed and the minimum amount of each dollar denomination and coin needed for the transaction.
 
-The purpose of the temperature is to calculate the temperature for the given scale using the provided formulas. 
+The purpose of the temperature program is to calculate the temperature for the given scale using the provided formulas. 
 
 **b)What does this program take as input?**
 The denominations program's input is the tendered and cost provided by the user. The temperature program's input is the temperature of the provided information.
